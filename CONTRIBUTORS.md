@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sandeep Singh](https://github.com/ssingh2101)
+- Place: Kolkata, India
+- Bio: Software Developer
+- Github: [Sandeep Singh](https://github.com/ssingh2101)
